@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "auth",
+      "type": "com.waibizi.sso.domain.po.SysUser",
+      "sourceType": "com.waibizi.sso.domain.po.SysUser"
+    }
+  ],
+  "properties": [
+    {
+      "name": "auth.password",
+      "type": "java.lang.String",
+      "sourceType": "com.waibizi.sso.domain.po.SysUser"
+    },
+    {
+      "name": "auth.username",
+      "type": "java.lang.String",
+      "sourceType": "com.waibizi.sso.domain.po.SysUser"
+    }
+  ],
+  "hints": []
+}

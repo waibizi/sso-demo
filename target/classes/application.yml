@@ -1,0 +1,11 @@
+server:
+  port: 8888
+
+auth:
+  username: root
+  password: waibizi
+
+spring:
+  redis:
+    host: localhost
+    port: 6379
